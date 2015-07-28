@@ -9,3 +9,5 @@ permalink: http://blobim.com/index.php/posts-2/
 published: true
 ---
 [mbYTPlayer url="https://youtu.be/WDRFDdhdxvI" opacity="1" quality="medium" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="false" startat="24" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+
+[post-list]
