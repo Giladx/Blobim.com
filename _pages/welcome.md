@@ -10,7 +10,7 @@ published: true
 ---
 &nbsp;
 
-[mbYTPlayer url="https://youtu.be/MfByYmZFFis" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="true" realfullscreen="false" printurl="false" autoplay="true" startat="30" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+[mbYTPlayer url="https://youtu.be/MfByYmZFFis" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="false" printurl="false" autoplay="true" startat="30" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
 &nbsp;
 
