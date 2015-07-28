@@ -8,53 +8,9 @@ layout: page
 permalink: http://blobim.com/index.php/welcome/
 published: true
 ---
-[mbYTPlayer url="https://youtu.be/MfByYmZFFis" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="true" realfullscreen="false" printurl="false" autoplay="false" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
-
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+[mbYTPlayer url="https://youtu.be/MfByYmZFFis" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="true" realfullscreen="false" printurl="false" autoplay="false" startat="30" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
 &nbsp;
 
