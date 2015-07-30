@@ -8,7 +8,7 @@ layout: page
 permalink: http://blobim.com/
 published: true
 ---
-[mbYTPlayer url="https://youtu.be/MfByYmZFFis" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="30" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+[mbYTPlayer url="https://youtu.be/Iv6VI23x9Z4" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="36" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
 <a href="http://blobim.com/index.php/posts-2/">Enter The Blog</a>
 
