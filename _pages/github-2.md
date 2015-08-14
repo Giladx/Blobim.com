@@ -8,6 +8,8 @@ layout: page
 permalink: http://blobim.com/index.php/github-2/
 published: true
 ---
+[mbYTPlayer url="https://youtu.be/ICoy6DRrRag" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+
 [do_widget "github profile"]
 [do_widget "github repositories"]
 [do_widget "github commits"]
