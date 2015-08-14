@@ -8,3 +8,4 @@ layout: page
 permalink: http://blobim.com/index.php/github-2/
 published: true
 ---
+ [do_widget github proile ] 
