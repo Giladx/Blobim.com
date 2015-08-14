@@ -9,8 +9,7 @@ permalink: http://blobim.com/
 published: true
 ---
 [mbYTPlayer url="https://youtu.be/WDRFDdhdxvI" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="24" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
-<h1><a href="http://blobim.com/index.php/posts-2/">Enter The Blog</a></h1>
-&nbsp;
+<a href="http://blobim.com/index.php/posts-2/">Enter The Blog</a>
 
 &nbsp;
 
