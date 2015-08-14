@@ -8,4 +8,4 @@ layout: page
 permalink: http://blobim.com/index.php/freehost/
 published: true
 ---
-<iframe src="http://www.ultimatefreehost.in/" width="1080" height="520">
+<iframe src="http://www.ultimatefreehost.in/" width="1080" height="560">
