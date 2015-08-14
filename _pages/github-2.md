@@ -8,4 +8,3 @@ layout: page
 permalink: http://blobim.com/index.php/github-2/
 published: true
 ---
-<iframe src="https://github.com/Giladx" width="1080" height="560"></iframe>
