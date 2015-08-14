@@ -8,8 +8,4 @@ layout: page
 permalink: http://blobim.com/index.php/freehost/
 published: true
 ---
-http://www.ultimatefreehost.in/
-
-&lt;iframe src="http://archidose.org/wp/2011/09/26/grover-residence/" width="948"&gt;
-
-&nbsp;
+<iframe src="http://www.ultimatefreehost.in/" width="948">
