@@ -8,6 +8,6 @@ layout: page
 permalink: http://blobim.com/index.php/github-2/
 published: true
 ---
-[do_widget "github profile"]
+[do_widget "github profile" width="1080" height="250"]
 [do_widget "github repositories"]
 [do_widget "github commits"]
