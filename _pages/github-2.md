@@ -12,4 +12,3 @@ published: true
 
 [do_widget "github profile"]
 [do_widget "github repositories"]
-[do_widget "github commits"]
