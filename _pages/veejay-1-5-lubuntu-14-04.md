@@ -13,15 +13,19 @@ published: true
 
 (I belive this will work on any ubuntu 14.04 based system)
 
+&nbsp;
+
 <strong>*First - Get all the dependencies</strong>
 
-the working ffmpeg version:
+<strong>working ffmpeg ppa:</strong>
 
 <code>sudo apt-add-repository ppa:kirillshkrogalev/ffmpeg-next</code>
 
 <code>sudo apt-get update</code>
 
 <code>sudo apt-get install ffmpeg ffmpeg2theora git autoconf automake libtool m4 gcc libjpeg62-dev libswscale-dev libavutil-dev libavcodec-dev libavformat-dev libx11-dev gtk-2.0-dev libxml2-dev libsdl1.2-dev libjack0 libjack-dev jackd1 libgmic-dev libglade2-dev libqrencode-dev libqrencode3 liblo-dev liblo-tools libunwind8 libunwind8-dev libdirectfb-bin libdirectfb-dev</code>
+
+&nbsp;
 
 <strong>**Next - get the git</strong>
 
@@ -33,7 +37,11 @@ the working ffmpeg version:
 
 <code>cd veejay-current</code>
 
-***Now compile it
+&nbsp;
+
+<strong>***Now compile it</strong>
+
+&nbsp;
 
 <strong>SERVER</strong>
 
@@ -49,6 +57,8 @@ the working ffmpeg version:
 </code>
 <code>sudo ldconfig</code>
 
+&nbsp;
+
 <strong>CLIENT</strong>
 
 <code>cd veejay-client</code>
@@ -63,6 +73,8 @@ the working ffmpeg version:
 
 <code>sudo ldconfig</code>
 
+&nbsp;
+
 <strong>VIMS</strong>
 
 <code>cd sendVIMS</code>
@@ -72,6 +84,8 @@ the working ffmpeg version:
 <code>make</code>
 
 <code>sudo make install</code>
+
+&nbsp;
 
 <strong>OTHER STUFF</strong>
 
