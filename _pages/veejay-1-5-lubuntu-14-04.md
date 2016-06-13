@@ -11,7 +11,7 @@ published: true
 ---
 <strong>TESTED ON LUBUNTU 14.04</strong>
 
-I belive this will work on any ubuntu 14.04 based system
+I believe this will work on any ubuntu 14.04 based system.
 
 &nbsp;
 
@@ -91,7 +91,7 @@ I belive this will work on any ubuntu 14.04 based system
 
 Use the same routine to install the plugins &amp; utils
 
-dont forget to -- sudo ldconfig
+don't forget to -- sudo ldconfig
 
 <code>$ echo "goodluck &amp;&amp; enjoy :)"</code>
 *to install themes just cd the dir and run <code>sudo ./INSTALL</code>
