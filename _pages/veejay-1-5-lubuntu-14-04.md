@@ -11,7 +11,7 @@ published: true
 ---
 <strong>TESTED ON LUBUNTU 14.04</strong>
 
-(I belive this will work on any ubuntu 14.04 based system)
+I belive this will work on any ubuntu 14.04 based system
 
 &nbsp;
 
