@@ -9,7 +9,7 @@ permalink: >
   http://blobim.com/index.php/veejay-1-5-lubuntu-14-04/
 published: true
 ---
-<strong>VEEJAY 1.5 MANUAL COMPILE __ TESTED ON LUBUNTU 14.04</strong>
+<strong>TESTED ON LUBUNTU 14.04</strong>
 
 (I belive this will work on any ubuntu 14.04 based system)
 
