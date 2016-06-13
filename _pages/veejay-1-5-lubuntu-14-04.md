@@ -1,6 +1,6 @@
 ---
 ID: 996
-post_title: 'how to compile VEEJAY 1.5  on  lubuntu 14.04'
+post_title: 'How to compile VEEJAY 1.5  on  lubuntu 14.04'
 author: admin
 post_date: 2016-06-13 00:18:45
 post_excerpt: ""
