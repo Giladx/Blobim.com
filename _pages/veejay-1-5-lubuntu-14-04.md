@@ -17,61 +17,61 @@ published: true
 
 the working ffmpeg version:
 
-you@linux:~$ <code>sudo apt-add-repository ppa:kirillshkrogalev/ffmpeg-next</code>
+<code>sudo apt-add-repository ppa:kirillshkrogalev/ffmpeg-next</code>
 
-you@linux:~$ <code>sudo apt-get update</code>
+<code>sudo apt-get update</code>
 
-you@linux:~$ <code>sudo apt-get install ffmpeg ffmpeg2theora git autoconf automake libtool m4 gcc libjpeg62-dev libswscale-dev libavutil-dev libavcodec-dev libavformat-dev libx11-dev gtk-2.0-dev libxml2-dev libsdl1.2-dev libjack0 libjack-dev jackd1 libgmic-dev libglade2-dev libqrencode-dev libqrencode3 liblo-dev liblo-tools libunwind8 libunwind8-dev libdirectfb-bin libdirectfb-dev</code>
+<code>sudo apt-get install ffmpeg ffmpeg2theora git autoconf automake libtool m4 gcc libjpeg62-dev libswscale-dev libavutil-dev libavcodec-dev libavformat-dev libx11-dev gtk-2.0-dev libxml2-dev libsdl1.2-dev libjack0 libjack-dev jackd1 libgmic-dev libglade2-dev libqrencode-dev libqrencode3 liblo-dev liblo-tools libunwind8 libunwind8-dev libdirectfb-bin libdirectfb-dev</code>
 
 <strong>**Next - get the git</strong>
 
-you@linux:~$ <code>git clone git://code.dyne.org/veejay.git veejay-git</code>
+<code>git clone git://code.dyne.org/veejay.git veejay-git</code>
 
-you@linux:~$ <code>cd veejay-git</code>
+<code>cd veejay-git</code>
 
-you@linux:~/veejay-git$ <code>git tag</code>
+<code>git tag</code>
+
+<code>cd veejay-current</code>
 
 ***Now compile it
 
 <strong>SERVER</strong>
 
-you@linux:~$ <code>cd veejay-git/veejay-current/</code>
+<code>cd veejay-server</code>
 
-you@linux:~/veejay-git/veejay-current$ <code>cd veejay-server</code>
+<code>sh autogen.sh</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ <code>sh autogen.sh</code>
+<code>./configure</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ <code>./configure</code>
+<code>make</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ <code>make</code>
-
-you@linux:~/veejay-git/veejay-current/veejay-server$ <code>sudo make install
+<code>sudo make install
 </code>
-you@linux:~/veejay-git/veejay-current/veejay-server$ <code>sudo ldconfig</code>
+<code>sudo ldconfig</code>
 
 <strong>CLIENT</strong>
 
-you@linux:~/veejay-git/veejay-current$ <code>cd veejay-client</code>
+<code>cd veejay-client</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ <code>sh autogen.sh</code>
+<code>sh autogen.sh</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ <code>./configure</code>
+<code>./configure</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ <code>make</code>
+<code>make</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ <code>sudo make install</code>
+<code>sudo make install</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ <code>sudo ldconfig</code>
+<code>sudo ldconfig</code>
 
 <strong>VIMS</strong>
 
-you@linux:~/veejay-git/veejay-current$ <code>cd sendVIMS</code>
+<code>cd sendVIMS</code>
 
-you@linux:~/veejay-git/veejay-current/sendVIMS$ <code>./configure</code>
+<code>./configure</code>
 
-you@linux:~/veejay-git/veejay-current/sendVIMS$ <code>make</code>
+<code>make</code>
 
-you@linux:~/veejay-git/veejay-current/sendVIMS$ <code>sudo make install</code>
+<code>sudo make install</code>
 
 <strong>OTHER STUFF</strong>
 
