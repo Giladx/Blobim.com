@@ -17,61 +17,61 @@ VEEJAY 1.5 MANUAL COMPILE __ TESTED ON LUBUNTU 14.04
 
 the working ffmpeg version:
 
-you@linux:~$ sudo apt-add-repository ppa:kirillshkrogalev/ffmpeg-next
+you@linux:~$ <code>sudo apt-add-repository ppa:kirillshkrogalev/ffmpeg-next</code>
 
-you@linux:~$ sudo apt-get update
+you@linux:~$ <code>sudo apt-get update</code>
 
-you@linux:~$ sudo apt-get install ffmpeg ffmpeg2theora git autoconf automake libtool m4 gcc libjpeg62-dev libswscale-dev libavutil-dev libavcodec-dev libavformat-dev libx11-dev gtk-2.0-dev libxml2-dev libsdl1.2-dev libjack0 libjack-dev jackd1 libgmic-dev libglade2-dev libqrencode-dev libqrencode3 liblo-dev liblo-tools libunwind8 libunwind8-dev libdirectfb-bin libdirectfb-dev
+you@linux:~$ <code>sudo apt-get install ffmpeg ffmpeg2theora git autoconf automake libtool m4 gcc libjpeg62-dev libswscale-dev libavutil-dev libavcodec-dev libavformat-dev libx11-dev gtk-2.0-dev libxml2-dev libsdl1.2-dev libjack0 libjack-dev jackd1 libgmic-dev libglade2-dev libqrencode-dev libqrencode3 liblo-dev liblo-tools libunwind8 libunwind8-dev libdirectfb-bin libdirectfb-dev</code>
 
 **Next - get the git
 
-you@linux:~$ git clone git://code.dyne.org/veejay.git veejay-git
+you@linux:~$ <code>git clone git://code.dyne.org/veejay.git veejay-git</code>
 
-you@linux:~$ cd veejay-git
+you@linux:~$ <code>cd veejay-git</code>
 
-you@linux:~/veejay-git$ git tag
+you@linux:~/veejay-git$ <code>git tag</code>
 
 ***Now compile it
 
 SERVER
 
-you@linux:~$ cd veejay-git/veejay-current/
+you@linux:~$ <code>cd veejay-git/veejay-current/</code>
 
-you@linux:~/veejay-git/veejay-current$ cd veejay-server
+you@linux:~/veejay-git/veejay-current$ <code>cd veejay-server</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ sh autogen.sh
+you@linux:~/veejay-git/veejay-current/veejay-server$ <code>sh autogen.sh</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ ./configure
+you@linux:~/veejay-git/veejay-current/veejay-server$ <code>./configure</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ make
+you@linux:~/veejay-git/veejay-current/veejay-server$ <code>make</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-server$ sudo make install
-
-you@linux:~/veejay-git/veejay-current/veejay-server$ sudo ldconfig
+you@linux:~/veejay-git/veejay-current/veejay-server$ <code>sudo make install
+</code>
+you@linux:~/veejay-git/veejay-current/veejay-server$ <code>sudo ldconfig</code>
 
 CLIENT
 
-you@linux:~/veejay-git/veejay-current$ cd veejay-client
+you@linux:~/veejay-git/veejay-current$ <code>cd veejay-client</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ sh autogen.sh
+you@linux:~/veejay-git/veejay-current/veejay-client$ <code>sh autogen.sh</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ ./configure
+you@linux:~/veejay-git/veejay-current/veejay-client$ <code>./configure</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ make
+you@linux:~/veejay-git/veejay-current/veejay-client$ <code>make</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ sudo make install
+you@linux:~/veejay-git/veejay-current/veejay-client$ <code>sudo make install</code>
 
-you@linux:~/veejay-git/veejay-current/veejay-client$ sudo ldconfig
+you@linux:~/veejay-git/veejay-current/veejay-client$ <code>sudo ldconfig</code>
 
 VIMS
 
-you@linux:~/veejay-git/veejay-current$ cd sendVIMS
+you@linux:~/veejay-git/veejay-current$ <code>cd sendVIMS</code>
 
-you@linux:~/veejay-git/veejay-current/sendVIMS$ ./configure
+you@linux:~/veejay-git/veejay-current/sendVIMS$ <code>./configure</code>
 
-you@linux:~/veejay-git/veejay-current/sendVIMS$ make
+you@linux:~/veejay-git/veejay-current/sendVIMS$ <code>make</code>
 
-you@linux:~/veejay-git/veejay-current/sendVIMS$ sudo make install
+you@linux:~/veejay-git/veejay-current/sendVIMS$ <code>sudo make install</code>
 
 OTHER STUFF
 
@@ -79,8 +79,8 @@ Use the same routine to install the plugins &amp; utils
 
 dont forget to -- sudo ldconfig
 
-$ echo "goodluck &amp;&amp; enjoy :)"
-*to install themes just cd the dir and run sudo ./INSTALL
+<code>$ echo "goodluck &amp;&amp; enjoy :)"</code>
+*to install themes just cd the dir and run <code>sudo ./INSTALL</code>
 
 GIL@DX
 
