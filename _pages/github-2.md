@@ -10,4 +10,5 @@ published: true
 ---
 [mbYTPlayer url="https://youtu.be/ICoy6DRrRag" opacity=".8" quality="hd720" ratio="16/9" isinline="false" showcontrols="true" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
-[GHB]https://github.com/Giladx[/GHB]
+[do_widget id=widget_profile-2]
+<pre>[github-profile username="giladx"]</pre>
