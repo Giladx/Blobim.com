@@ -28,8 +28,5 @@ vidbg_metabox_field_unmute:
 
 [github-profile username="giladx"]
 <pre>[github-commits username="giladx" repository="" limit="10"]
-
-[github-commits username="giladx" repository="lpmtx" limit="10"]
-
 </pre>
 <pre>[github-issues username="giladx" repository="" limit="10"]</pre>
