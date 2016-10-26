@@ -27,3 +27,9 @@ vidbg_metabox_field_unmute:
 [mbYTPlayer url="https://youtu.be/ICoy6DRrRag" opacity=".8" quality="hd720" ratio="16/9" isinline="false" showcontrols="true" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
 [github-profile username="giladx"]
+<pre>[github-commits username="giladx" repository="" limit="10"]
+
+[github-commits username="giladx" repository="lpmtx" limit="10"]
+
+</pre>
+<pre>[github-issues username="giladx" repository="" limit="10"]</pre>
