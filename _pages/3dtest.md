@@ -28,7 +28,7 @@ vidbg_metabox_field_unmute:
 
 &nbsp;
 
-&nbsp;
+[3D width="600" height="400" background="436523" opacity="0.5" model="http://blobim.com/wp-content/uploads/2016/10/testobj.obj" camera="50,50,300" modelposition="2,2,2" modelscale="2,2,2" ambient="BBBBBB" directional="1,1,0:FFFF44" class="3d" style="float: right" id="coffee" fps=20]
 
 &nbsp;
 
