@@ -5,7 +5,7 @@ author: admin
 post_date: 2015-07-28 13:23:59
 post_excerpt: ""
 layout: page
-permalink: http://blobim.com/
+permalink: https://blobim.com/
 published: true
 vidbg_metabox_field_mp4_id:
   - "0"
@@ -26,9 +26,6 @@ vidbg_metabox_field_unmute:
 ---
 [mbYTPlayer url="https://youtu.be/WDRFDdhdxvI" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="24" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
-<iframe src="https://p3d.in/e/S3rwj+spin+load+link,dl-hidden" width="640" height="480" frameborder="0" seamless webkitallowfullscreen></iframe>
-
-&nbsp;
 
 &nbsp;
 
