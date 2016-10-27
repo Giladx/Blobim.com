@@ -26,7 +26,8 @@ vidbg_metabox_field_unmute:
 ---
 [mbYTPlayer url="https://youtu.be/ICoy6DRrRag" opacity=".8" quality="hd720" ratio="16/9" isinline="false" showcontrols="true" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
-<pre>[github-profile username="giladx"][paypal-donation]</pre>
+<pre>[github-profile username="giladx"]</pre>
+[paypal-donation]
 
 <pre>[github-issues username="giladx" repository="" limit="10"]
 
