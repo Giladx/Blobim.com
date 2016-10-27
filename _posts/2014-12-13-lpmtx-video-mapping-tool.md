@@ -3,7 +3,7 @@ ID: 32
 post_title: |
   |
     
-    <span class="textillate-Ti69h">
+    <span class="textillate-4sGSz">
     LPMTX Video mapping tool</span>
 author: admin
 post_date: 2014-12-13 10:21:43
@@ -51,6 +51,6 @@ MPE -  <a href="https://github.com/shiffman/Most-Pixels-Ever-Processing" target
 <pre>lpmtx pull requests [github-pulls username="giladx" repository="lpmtx" limit="10"]
 
 
-more repositories [github-repos username="giladx" limit="20"]
-[do_widget id=paypal_donations-2]</pre>
+more repositories [github-repos username="giladx" limit="20"]</pre>
+[do_widget id=paypal_donations-2]
 Gil@dLevi
