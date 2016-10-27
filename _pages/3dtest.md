@@ -25,9 +25,6 @@ vidbg_metabox_field_unmute:
   - 'off'
 ---
 [mbYTPlayer url="https://youtu.be/WDRFDdhdxvI" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="24" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
-
-&nbsp;
-
 <iframe src="https://p3d.in/e/3DwEZ" width="640" height="480" frameborder="0" seamless allowfullscreen webkitallowfullscreen></iframe>
 
 &nbsp;
