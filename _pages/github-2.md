@@ -28,6 +28,8 @@ vidbg_metabox_field_unmute:
 
 <pre>[github-profile username="giladx"]</pre>
 
+[paypal-donation]
+
 <pre>[github-issues username="giladx" repository="" limit="10"]
 
 [github-commits username="giladx" repository="" limit="10"]</pre>
