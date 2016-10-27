@@ -30,7 +30,7 @@ vidbg_metabox_field_unmute:
 
 &nbsp;
 
-&nbsp;
+&lt;a href="https://p3d.in/3DwEZ" target="_blank"&gt;&lt;img src="https://p3d.in/model_data/snapshot/3DwEZ" alt="Vaygr Assault Frigate (Click to view in 3D)"/&gt;&lt;/a&gt;Vaygr Assault Frigate (Click to view in 3D)
 
 &nbsp;
 
