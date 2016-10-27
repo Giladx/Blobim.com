@@ -38,8 +38,6 @@ vidbg_metabox_field_unmute:
 
 &nbsp;
 
-<iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=a182d8bf41bdc6471c7075c2bc313334&width=580&height=326" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="580" height="326" allowfullscreen></iframe>
-
 &nbsp;
 
 &nbsp;
