@@ -28,7 +28,7 @@ vidbg_metabox_field_unmute:
 
 &nbsp;
 
-[canvasio3D width="640" height="640" border="1" borderCol="#F6F6F6" dropShadow="0" backCol="#FFFFFF" backImg="<img src="http://blobim.com/wp-content/uploads/2016/10/v2qKc48.jpg" />" mouse="on" rollMode="on" rollSpeedH="0" rollSpeedV="0" objPath="http://blobim.com/wp-content/uploads/2016/10/test.dae" objScale="1.5" objColor="" lightSet="7" reflection="off" refVal="5" objShadow="off" floor="off" floorHeight="42" lightRotate="on" Help="off"] [/canvasio3D]
+[canvasio3D width="640" height="640" border="1" borderCol="#F6F6F6" dropShadow="0" backCol="#000000" backImg="" mouse="on" rollMode="on" rollSpeedH="0" rollSpeedV="0" objPath="http://blobim.com/wp-content/uploads/2016/10/test.dae" objScale="1.5" objColor="" lightSet="7" reflection="off" refVal="5" objShadow="off" floor="off" floorHeight="42" lightRotate="on" Help="off"] [/canvasio3D]
 
 &nbsp;
 
