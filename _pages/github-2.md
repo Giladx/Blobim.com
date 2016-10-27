@@ -5,7 +5,7 @@ author: admin
 post_date: 2015-08-14 07:30:41
 post_excerpt: ""
 layout: page
-permalink: http://blobim.com/index.php/github-2/
+permalink: https://blobim.com/index.php/github-2/
 published: true
 vidbg_metabox_field_mp4_id:
   - "0"
@@ -30,8 +30,8 @@ vidbg_metabox_field_unmute:
 
 [paypal-donation]
 
-<pre>[github-issues username="giladx" repository="" limit="10"]
+<pre>[github-issues username="giladx" repository="" limit="5"]
 
-[github-commits username="giladx" repository="" limit="10"]</pre>
+[github-commits username="giladx" repository="" limit="5"]</pre>
 
 [GHB]https://github.com/Giladx[/GHB]
