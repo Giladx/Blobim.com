@@ -8,6 +8,7 @@ layout: page
 permalink: http://blobim.com/index.php/kodi/
 published: true
 ---
+<pre>[github-repos username="xbmc" limit="10"]</pre>
 <script type='text/javascript' src='https://www.openhub.net/p/website/widgets/project_search_all_code?format=js'></script>
 
 <script type='text/javascript' src='https://www.openhub.net/p/website/widgets/project_factoids_stats?format=js'></script>
