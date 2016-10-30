@@ -10,4 +10,4 @@ published: true
 ---
 [mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
-<iframe src="https://www.ultimatefreehost.in/" width="1080" height="560"></iframe>
+<iframe src="http://www.ultimatefreehost.in/" width="1080" height="560"></iframe>
