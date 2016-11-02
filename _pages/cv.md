@@ -7,9 +7,29 @@ post_excerpt: ""
 layout: page
 permalink: https://blobim.com/index.php/cv/
 published: true
+vidbg_metabox_field_mp4_id:
+  - "1173"
+vidbg_metabox_field_mp4:
+  - >
+    https://app.box.com/s/tu8zlmvtce330s11cm3l02tobdze8a1g
+vidbg_metabox_field_webm_id:
+  - "1173"
+vidbg_metabox_field_webm:
+  - >
+    https://blobim.com/wp-content/uploads/2016/11/testweb.webm
+vidbg_metabox_field_poster_id:
+  - "0"
+vidbg_metabox_field_overlay:
+  - 'on'
+vidbg_metabox_field_overlay_color:
+  - '#000'
+vidbg_metabox_field_overlay_alpha:
+  - "30"
+vidbg_metabox_field_no_loop:
+  - 'off'
+vidbg_metabox_field_unmute:
+  - 'off'
 ---
-[mbYTPlayer url="https://youtu.be/c7QYx9m4Ktg" opacity="1" quality="hd720" ratio="16/9" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="100" stopat="146" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
-
 Name : Gilad Levi
 eMail : <a href="mailto:Gilad@blobim.com">Gilad.x@gmail.com</a>
 M : 0546358007
