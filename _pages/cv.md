@@ -32,7 +32,7 @@ Multimedia Video Audio and Interactive systems installations, programing and ope
 
 <strong>Video Systems &amp; Software</strong>
 
-<code>Resolume, Module8, Analogway(all),Coolux PandoraBox,BlackMagic ATEM(all), GreenHippo hippotizer, vMix, Dataton watchout, RGBLink(all), Adobe CS, Natron, MadMapper (etc) </code>
+<code>Resolume, Module8, Analogway(all),Coolux PandoraBox,BlackMagic ATEM(all), GreenHippo Hippotizer, vMix, Dataton watchout, RGBLink(all), Adobe CS, Natron, MadMapper (etc) </code>
 
 &nbsp;
 
