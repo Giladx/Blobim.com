@@ -8,7 +8,7 @@ layout: page
 permalink: https://blobim.com/index.php/cv/
 published: true
 ---
-[mbYTPlayer url="https://youtu.be/c7QYx9m4Ktg?t=1m30s" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+[mbYTPlayer url="https://youtu.be/c7QYx9m4Ktg" opacity="1" quality="hd720" ratio="16/9" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="1:30" stopat="2:27" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
 Name : Gilad Levi
 eMail : <a href="mailto:Gilad@blobim.com">Gilad.x@gmail.com</a>
@@ -34,7 +34,7 @@ Multimedia Video Audio and Interactive systems installations, programing and ope
 
 <strong>Video Systems &amp; Software</strong>
 
-Resolume, Module8, Analogway(all),Coolux PandoraBox,BlackMagic ATEM(all), GreenHippo Hippotizer, vMix, Dataton watchout, RGBLink(all), Adobe CS, Natron, MadMapper (etc) 
+Resolume, Module8, Analogway(all),Coolux PandoraBox,BlackMagic ATEM(all), GreenHippo Hippotizer, vMix, Dataton watchout, RGBLink(all), Adobe CS, Natron, MadMapper (etc)
 
 &nbsp;
 
