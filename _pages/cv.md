@@ -19,6 +19,8 @@ M : 0546358007</code>
 -MCITP Studies at Etgar Collage
 -Native English level</code>
 
+&nbsp;
+
 <strong>2000-2015 Freelancer</strong>
 
 <code>Linux/UNIX/OSX/Microsoft Platforms Administrator
@@ -26,11 +28,13 @@ Assembly, optimization, repair, and installation of solutions for professional m
 Designated range and variety for different companies.
 Multimedia Video Audio and Interactive systems installations, programing and operation.</code>
 
+&nbsp;
 
 <strong>Video Systems &amp; Software</strong>
 
 <code>Resolume, Module8, Analogway(all),Coolux PandoraBox,BlackMagic ATEM(all), GreenHippo hippotizer, vMix, Dataton watchout, RGBLink(all), Adobe CS, Natron, MadMapper (etc) </code>
 
+&nbsp;
 
 <strong>Computing experience</strong>
 
@@ -44,6 +48,8 @@ Multimedia Video Audio and Interactive systems installations, programing and ope
 Implementation capacity, operation and quick learning of any necessary software.
 - 10 years Experience in daily use with Linux.</code>
 
+&nbsp;
+
 <strong>Approachable Technologies</strong>
 
 <code>LAMP, Apache, Samba, Bind, ISPConfig, Postfix, MySQL, PhpMyAdmin, Zenoss, Mono,
@@ -56,6 +62,7 @@ File Management Systems.
 Microsoft
 Server 2008, AD DS, AD CS , DHCP ,DNS, GPO, Hyper-V etc</code>
 
+&nbsp;
 
 <strong>About</strong>
 
@@ -67,6 +74,7 @@ for development purposes.
 As a Freelancer I was in building, designing and maintaining computer systems for
 Recording studios, Video editing rooms, Lighting control systems , Multi screening networks (video walls) and 3D imaging rendering servers.</code>
 
+&nbsp;
 
 <strong>Personal Skills</strong>
 
