@@ -13,7 +13,7 @@ eMail : <a href="mailto:Gilad@blobim.com">Gilad.x@gmail.com</a>
 M : 0546358007</code>
 
 <strong>Curriculum vitae</strong>
-<code>-IDF at the Nahal (Infantry)
+<code>-IDF(Infantry)
 -Media and Communication Studies at Sapir Collage
 -MCITP Studies at Etgar Collage
 -Native English level</code>
