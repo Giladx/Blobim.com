@@ -8,6 +8,8 @@ layout: page
 permalink: https://blobim.com/index.php/cv/
 published: true
 ---
+[mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+
 <code>Name : Gilad Levi
 eMail : <a href="mailto:Gilad@blobim.com">Gilad.x@gmail.com</a>
 M : 0546358007</code>
