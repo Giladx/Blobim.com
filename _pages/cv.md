@@ -8,7 +8,7 @@ layout: page
 permalink: https://blobim.com/index.php/cv/
 published: true
 ---
-[mbYTPlayer url="https://youtu.be/c7QYx9m4Ktg" opacity="1" quality="hd720" ratio="16/9" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="1:30" stopat="2:26" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+[mbYTPlayer url="https://youtu.be/c7QYx9m4Ktg" opacity="1" quality="hd720" ratio="16/9" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" startat="90" stopat="146" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
 Name : Gilad Levi
 eMail : <a href="mailto:Gilad@blobim.com">Gilad.x@gmail.com</a>
