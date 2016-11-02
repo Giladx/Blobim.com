@@ -9,9 +9,6 @@ permalink: https://blobim.com/index.php/cv/
 published: true
 vidbg_metabox_field_mp4_id:
   - "1173"
-vidbg_metabox_field_mp4:
-  - >
-    https://app.box.com/s/tu8zlmvtce330s11cm3l02tobdze8a1g
 vidbg_metabox_field_webm_id:
   - "1173"
 vidbg_metabox_field_webm:
